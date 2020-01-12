@@ -1,6 +1,6 @@
 # 블록체인 & Klaytn 정리 문서
 
- https://docs.klaytn.com/을 바탕으로 작성되었습니다. 
+ https://docs.klaytn.com 을 바탕으로 작성되었습니다. 
 
 손세종님의 강의를 바탕으로 작성했습니다.
 
